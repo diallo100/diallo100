@@ -18,8 +18,12 @@ Diplômée en génie informatique et réseaux, actuellement en master en réseau
 ## Éducation
 
 ### Université Nongo Conakry
-**Master en Réseaux et Sécurité Informatique**
-*Mars 2022 - Présent*
+**Master 2 en Réseaux et Sécurité Informatique**
+*En cours*
+
+### Université Nongo Conakry
+**Master 1 en Réseaux et Sécurité Informatique**
+*2022 - 2023*
 
 ### Université Nongo Conakry
 **Licence professionnelle en génie informatique / réseaux**
@@ -54,6 +58,7 @@ Mention Assez Bien
 ## Divers
 - Lecture
 - Sport
+- Réseaux sociaux
 
 ## Contact
 
